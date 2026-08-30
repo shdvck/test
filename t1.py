@@ -5,3 +5,4 @@ sum_result = num1 + num2
 
 print(f"{num1} + {num2} = {sum_result}")
 print(12345)
+print(gdf)
