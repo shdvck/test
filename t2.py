@@ -6,3 +6,4 @@ guess = 0
 while guess != secret_number:
     guess = int(input("猜一个 1 到 10 之间的数字："))
     if guess < secret_number:
+V
